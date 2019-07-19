@@ -1,0 +1,12 @@
+{
+    "bgbilling":{
+        "user": "user",
+        "pswd": "password"
+    },
+    "csv":{
+        "filename": "passport.csv",
+        "delimiter": "|"
+    },
+    "has_header": "True",
+    "log_level": "DEBUG"
+}
