@@ -43,7 +43,6 @@ def replace_line(line):
         result += '_%s' % line[-1]
     else:
         result += ' %s' % line[-1]
-    result += '\n'
     return result
 
 
